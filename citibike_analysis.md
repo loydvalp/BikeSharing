@@ -5,31 +5,39 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
 An analysis was performed on New York City's Citi Bike Program to learn more about bike-sharing.  Citi Bike is the nation's largest bike-sharing program, with over 14,000 bikes and approximately 1,000 stations.  Citi bike is an affordable yet fun way to get around town.  Each month there is bike data collected, organized, and publish on the Citi Bike Data Website.  With the NYC Citi Bike information collected, developing a similar sharing bike program in Des Moines, IA.
 
-What Is the Average Trip Duration by Age?
+### What Is the Average Trip Duration by Age?
 
 There was a comparison of the birth year to the length of a bike ride.   The younger you are (later the birth year), the longer the ride duration.  
-How Many Trips Were Recorded During the Month of August?  
+
+### How Many Trips Were Recorded During the Month of August?  
+
 August is a beautiful time of the year to ride around a city on a bike. There was data collected on how many trips were taken in NYC in August.  There was 2,334,244 total number of trips taken in August. 
-What Is the Gender Breakdown of Active Riders?  
+
+### What Is the Gender Breakdown of Active Riders?  
+
 Collecting details about the riders.  There were 588,431 female riders and 1,530,272 male riders.
-What Is the Proportion of Short-Term Customers to Annual Subscribers?
+
+### What Is the Proportion of Short-Term Customers to Annual Subscribers?
+
 There were 1,900,359 subscribers and 443,865 customers. 
 
-What Are the Top Bike Stations in the City for Starting a Journey?
+### What Are the Top Bike Stations in the City for Starting a Journey?
+
 Plotted a starting location's longitude and latitude with the number of records.  
 
-What Are Peak Riding Hours in the Month of August?
+### What Are Peak Riding Hours in the Month of August?
+
 Since August is a great month to visit NYC, it was best to figure out the peak hours for the bike trips.  The top riding hours were between 5:00 PM to 7:00 PM
 
-How is the weather?
+### How is the weather?
 
 After collecting data for August in NYC,  I collected average monthly temperatures for both cities.  In the first half of the year, Des Moines's temperatures are slightly warmer than NYC.  Des Moines has great weather for riders. One can assume more people will be out riding around the city.
 
-What is the population of Des Moines? 
+### What is the population of Des Moines? 
 
 The population for Des Moines is 216,993.  The growth rate for this city is approximately 1.6%.  
 
-How does its population compare to the population of New York City?  
+### How does its population compare to the population of New York City?  
 
 NYC is 39 times bigger than Des Moines.  NYC has a population of 8,393,748.
 
@@ -37,7 +45,7 @@ The largest age group for both cities is in the range between 25 to 29 years old
 
 Both cities have a very diverse population and more than 50% of the population.
 
-Does the population affect the number of people who will use the bike-sharing program?  
+### Does the population affect the number of people who will use the bike-sharing program?  
 
 Des Moines has a growing population.  It may be smaller than NYC; however, tourists are flocking to the city.  In 2016, Des Moines had a record-breaking 13.7M tourist to visit. The is 60X times the population.  NYC had 65M tourists.  That is 8X times the population.  The population would not have a negative effect on a bike-sharing program in Des Moines.  Des Moines has 31.89 acres per 1000 residents.  The national median is 13.10.  Tons of acres to explore.   Des Moines is small but MIGHTY!!!  There is plenty of tours attraction.  Des Moines is a great location for outdoor activities.  Miles of trails to explore.  
 There will always be competition.  Location is the key for bike station.  
