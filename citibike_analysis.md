@@ -42,13 +42,13 @@ Does the population affect the number of people who will use the bike-sharing pr
 Des Moines has a growing population.  It may be smaller than NYC; however, tourists are flocking to the city.  In 2016, Des Moines had a record-breaking 13.7M tourist to visit. The is 60X times the population.  NYC had 65M tourists.  That is 8X times the population.  The population would not have a negative effect on a bike-sharing program in Des Moines.  Des Moines has 31.89 acres per 1000 residents.  The national median is 13.10.  Tons of acres to explore.   Des Moines is small but MIGHTY!!!  There is plenty of tours attraction.  Des Moines is a great location for outdoor activities.  Miles of trails to explore.  
 There will always be competition.  Location is the key for bike station.  
 
-Conclusion
+## Conclusion
 
-Des Moines will be a great location to add bike sharing program to.  
+Des Moines will be a great location to add bike sharing program.  This city has 63 miles of paved and 18 miles of soft trails. Des Moines is a city that has something for everyone.  Let's get active!!!! 
 
 ## Sources
 
-Tableau repository is located here:  Tableau Link
+Tableau repository is located here:  Tableau Link [Val Tableau Link](https://public.tableau.com/shared/QCF3MP9Z5?:display_count=y&:origin=viz_share_link)
 
 ## Resources
 
