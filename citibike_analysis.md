@@ -44,6 +44,7 @@ There will always be competition.  Location is the key for bike station.
 
 Conclusion
 
+Des Moines will be a great location to add bike sharing program to.  
 
 ## Sources
 
@@ -53,18 +54,34 @@ Tableau repository is located here:  Tableau Link
 
 ### Des Moines Data
 
-[CensusData](https://data.census.gov/cedsci/table?g=1600000US1921000&tid=ACSDT1Y2018.B03002)
-
 [CensusDataPopulation](https://data.census.gov/cedsci/table?q=des%20moines%20city,%20iowa%20population&tid=ACSST1Y2018.S0101&hidePreview=false)
 
 [Parkland](https://www.desmoinesregister.com/story/news/2016/12/06/parkland-central-iowa-outpaces-majority-large-us-cities/94666060/)
 
+[CatchDesMoines](https://www.catchdesmoines.com/things-to-do/walk-and-bike-tours/)
+
+[IowaPopulation](https://worldpopulationreview.com/us-cities/des-moines-ia-population)
+
+[Temperature](https://www.timeanddate.com/weather/usa/des-moines/historic?month=1&year=2018)
+
+[DesMoinesTrailMap](https://www.quora.com/What-do-you-like-the-most-living-in-Des-Moines-Iowa)
+
+[HighTrestleTrail](https://www.archdaily.com/792420/high-trestle-trail-bridge-rdg-planning-and-design)
 
 ### NYC Data
+
+[CitiBike](https://www.citibikenyc.com/)
 
 [CensusDataNYCPopulation](https://data.census.gov/cedsci/table?q=new%20york%20city,%20ny%20population&tid=ACSST1Y2018.S0101&hidePreview=false)
 
 [TourData](https://www.northstarmeetingsgroup.com/News/Industry/new-york-city-2018-tourism-statistics-record#:~:text=NYC%20%26%20Company%20has%20released%20its,consecutive%20year%20of%20tourism%20growth.)
 
+[NumberofAcres](https://ny.curbed.com/2015/9/1/9924936/see-how-many-new-yorkers-share-your-slice-of-park)
+
 
 ### Competitors
+
+[BikeIowa](https://www.bikeiowa.com/)
+
+[BCycle](https://desmoines.bcycle.com/what-is)
+
